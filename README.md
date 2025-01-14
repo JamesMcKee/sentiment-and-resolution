@@ -2,7 +2,7 @@
 
 Scripts for implementing a generative AI analysis on transcripts of calls to customer support.
 
-Install requirements with:
+Install requirements with: \
 pip install -r requirements.txt
 
 # model testing
