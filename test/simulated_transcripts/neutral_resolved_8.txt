@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I’m still waiting for a reimbursement that hasn’t arrived. My name is Carol White, and my member ID is MEM890123.
+Customer Support: Thank you for calling, Carol. Can you confirm your date of birth?
+Member: It’s July 9, 1986.
+Customer Support: Thanks, Carol. Let me check on your reimbursement status. [pause] It looks like there was a delay, but I’ve expedited the process. You should receive the reimbursement in 3-5 business days.
+Member: Okay, thank you for the update.
+Customer Support: You’re welcome, Carol. Let me know if you need anything else.
+Member: No, that’s all.
+Customer Support: Alright, take care!

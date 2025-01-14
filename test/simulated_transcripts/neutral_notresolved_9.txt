@@ -1,0 +1,9 @@
+Member: Hi, I’m calling about my deductible. I was charged for a visit, but I thought my deductible was already met. My name is Nancy Davis, and my member ID is MEM901234.
+Customer Support: Thank you for calling, Nancy. Can you confirm your date of birth?
+Member: It’s October 7, 1984.
+Customer Support: Thanks, Nancy. Let me check your deductible status. [pause] It appears that your deductible has been partially met, but not fully. The remaining balance will need to be paid out of pocket.
+Member: Okay. So, I’m still responsible for part of the charge?
+Customer Support: Yes, that’s correct. The remaining portion will be your responsibility until your deductible is fully met.
+Member: Alright, thanks for the information.
+Customer Support: You’re welcome. Let me know if you need anything else.
+Member: I will.

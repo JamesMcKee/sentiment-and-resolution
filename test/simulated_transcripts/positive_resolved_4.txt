@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I was charged a copay for a primary care visit, and I thought it was supposed to be covered at 100%. My name is Rachel Green, and my member ID is MEM456789.
+Customer Support: Thank you for calling, Rachel. Can you confirm your date of birth?
+Member: It’s January 5, 1986.
+Customer Support: Thanks, Rachel. Let me check your coverage. [pause] It looks like there was an error in processing your copay. I’ll go ahead and initiate a refund for you.
+Member: That’s wonderful! I appreciate you catching that mistake.
+Customer Support: No problem, Rachel! The refund should appear on your card within 3-5 business days.
+Member: Perfect. Thanks for fixing that for me so quickly.
+Customer Support: You’re welcome! I’m glad I could help. Is there anything else I can do for you?
+Member: No, that’s everything. Thanks again!
+Customer Support: My pleasure! Have a great day!

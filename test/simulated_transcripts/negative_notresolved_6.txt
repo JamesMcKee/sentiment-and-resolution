@@ -1,0 +1,9 @@
+Member: Hi, I’m calling because my doctor is refusing to accept my insurance anymore. This is really inconvenient. My name is Rachel Harris, and my member ID is MEM432109.
+Customer Support: Thank you for calling, Rachel. Can you confirm your date of birth?
+Member: It’s January 16, 1991.
+Customer Support: Thanks. Let me check your network details. [pause] It looks like your doctor has opted out of our network, and there’s nothing we can do to keep them as a provider under your current plan.
+Member: That’s unbelievable! I’ve been seeing this doctor for years, and now I have to find someone new because of your network issues?
+Customer Support: I’m sorry for the inconvenience. You could look for another doctor within the network, but I understand this is frustrating.
+Member: This is just another example of how this insurance company keeps failing me. I’m not happy about this at all.
+Customer Support: I understand your frustration. I wish there was more I could do.
+Member: Yeah, well, I’ll be looking for new insurance options soon. This is just ridiculous.

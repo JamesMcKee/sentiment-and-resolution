@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I have some questions about the pre-authorization for my knee surgery. My name is Mark Thompson, and my member ID is MEM234567.
+Customer Support: Thank you for calling, Mark. Can you confirm your date of birth for me?
+Member: It’s May 18, 1985.
+Customer Support: Thank you, Mark. I’ll look into your pre-authorization request. [pause] I see that your pre-authorization has been approved. You’re all set!
+Member: That’s fantastic! I was a bit worried about the approval process. Thank you for checking on that!
+Customer Support: You’re welcome, Mark! You should receive a confirmation letter in the mail soon.
+Member: Perfect, I’ll keep an eye out for it. Thanks again for the great service!
+Customer Support: Anytime, Mark. Let me know if you need anything else.
+Member: Will do. Have a great day!
+Customer Support: You too!

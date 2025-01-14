@@ -1,0 +1,9 @@
+Member: Hi, I’m calling to dispute a claim that was denied. My name is Charles Mitchell, and my member ID is MEM876543.
+Customer Support: Thank you for calling, Charles. Can you confirm your date of birth?
+Member: It’s November 5, 1979.
+Customer Support: Thanks. Let me check your claim. [pause] It looks like the claim was denied because the procedure wasn’t deemed medically necessary.
+Member: What? That’s outrageous! My doctor said it was necessary. Why is your system deciding what’s necessary for me?
+Customer Support: I understand your concern. Unfortunately, the claim decision was made based on medical necessity criteria, and I can’t change that decision here.
+Member: This is so frustrating. I’ve been with this company for years, and now you’re telling me I don’t even deserve coverage for what my doctor recommends?
+Customer Support: I’m truly sorry, Charles. I don’t have the authority to override the decision.
+Member: Well, I guess I’ll just have to fight this, but I’m really angry about it.

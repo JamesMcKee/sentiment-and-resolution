@@ -1,0 +1,9 @@
+Member: Hi, I’m calling because I want to check on the status of my claim. My name is Steve Harris, and my member ID is MEM678901.
+Customer Support: Thank you for calling, Steve. Can you confirm your date of birth?
+Member: It’s August 5, 1988.
+Customer Support: Thanks, Steve. Let me check the status of your claim. [pause] It looks like your claim is still being reviewed and hasn’t been processed yet.
+Member: Okay. So, there’s no update at all?
+Customer Support: That’s correct. The claim is still under review, and there’s no further information at the moment.
+Member: Alright. I’ll wait.
+Customer Support: Thank you for your patience, Steve. Let me know if you have any further questions.
+Member: I will. Thank you.

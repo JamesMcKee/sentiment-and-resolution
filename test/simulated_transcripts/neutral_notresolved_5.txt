@@ -1,0 +1,9 @@
+Member: Hi, I’m calling because I received a notification that my prescription wasn’t covered under my insurance plan. My name is Linda White, and my member ID is MEM567890.
+Customer Support: Thank you for calling, Linda. Can you confirm your date of birth?
+Member: It’s February 23, 1975.
+Customer Support: Thanks, Linda. Let me look into that for you. [pause] It appears that the prescription wasn’t covered because it’s not listed on the formulary for your plan.
+Member: I see. So there's nothing that can be done?
+Customer Support: Unfortunately, no. The formulary is set for your plan, and it can’t be changed.
+Member: Alright. Thanks for the information.
+Customer Support: You’re welcome. Let me know if you need anything else.
+Member: Okay, I will.

@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I received a bill for a service that I believe should be covered under my insurance. My name is Linda Brown, and my member ID is MEM987654.
+Customer Support: Thank you for calling, Linda. Can you please confirm your date of birth for verification?
+Member: It’s June 20, 1990.
+Customer Support: Thank you, Linda. Can you please provide more details about the service in question?
+Member: It’s a physical therapy session I had after surgery last month. I’m pretty sure it should be covered as part of my recovery.
+Customer Support: Let me check on that for you. [pause] I see that your plan does cover physical therapy, but it looks like the number of sessions exceeds the covered limit.
+Member: Oh, that’s too bad, but I’m sure it’s just a small hiccup! I’ll reach out to the billing department to figure this out. I appreciate your help!
+Customer Support: Unfortunately, the coverage limit is firm, but I recommend contacting our billing department to see if there’s an alternative option for assistance.
+Member: Absolutely! I’m sure they’ll be able to help. Thank you for guiding me, I feel confident it’ll get sorted!
+Customer Support: You’re welcome. Have a great day.

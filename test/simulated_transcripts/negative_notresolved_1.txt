@@ -1,0 +1,9 @@
+Member: Hi, I’m calling because my recent claim for a surgery wasn’t covered, and I don’t understand why. My name is Brian Carter, and my member ID is MEM123789.
+Customer Support: Thank you for calling, Brian. Can you please confirm your date of birth for verification?
+Member: It’s March 15, 1980.
+Customer Support: Thank you, Brian. Let me check on the claim for you. [pause] It looks like the surgery wasn’t covered because it wasn’t pre-authorized, and that wasn’t processed in advance.
+Member: This is ridiculous. I wasn’t even told that I needed pre-authorization! I’m already stuck with a huge bill and now I’m being told I won’t be reimbursed?
+Customer Support: I understand your frustration. Unfortunately, the system shows that the surgery wasn’t authorized in advance, and there’s nothing I can do to reverse that.
+Member: Unbelievable. I’m furious about this. I’ll never trust this insurance again. Thanks for nothing.
+Customer Support: I’m sorry for the inconvenience. I wish I could assist you further, but the claim decision is final.
+Member: Yeah, I know. Thanks for your help... I guess.

@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I’ve been waiting for a claim reimbursement. My name is Laura Adams, and my member ID is MEM345678.
+Customer Support: Thank you for calling, Laura. Can you confirm your date of birth?
+Member: It’s August 22, 1992.
+Customer Support: Thank you, Laura. Let me check on that claim. [pause] I see that the reimbursement has been processed, and the payment is on its way to you. You should receive it in the next few days.
+Member: Oh, that’s great news! I was starting to wonder when it would come through. Thank you so much!
+Customer Support: I’m glad to be of help, Laura! You should expect it soon.
+Member: I appreciate your help today. You’ve made this so much easier for me.
+Customer Support: It was my pleasure! Let me know if you need any further assistance.
+Member: Will do. Thanks again!
+Customer Support: You're welcome! Take care.

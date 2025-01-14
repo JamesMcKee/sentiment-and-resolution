@@ -1,0 +1,9 @@
+Member: Hi, I need help with a billing error. I was charged for a specialist visit that I shouldn’t have had to pay for. My name is Emma Davis, and my member ID is MEM234561.
+Customer Support: Thank you for calling, Emma. Can you confirm your date of birth?
+Member: It’s May 9, 1992.
+Customer Support: Thanks, Emma. Let me check your account. [pause] It looks like the specialist visit was charged due to an error in the system. However, I’m unable to reverse the charge from here.
+Member: Are you serious? This is such a hassle. Why isn’t this something you can fix right away?
+Customer Support: Unfortunately, the system can’t process refunds directly. I recommend contacting the billing department to get this sorted out.
+Member: This is so frustrating. I don’t have time to keep dealing with this. I expect better service.
+Customer Support: I understand, and I’m sorry for the inconvenience. They should be able to help you.
+Member: Yeah, well, I’ll try. I’m not hopeful, though.

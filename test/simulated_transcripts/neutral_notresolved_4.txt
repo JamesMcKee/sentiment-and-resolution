@@ -1,0 +1,9 @@
+Member: Hi, I’m calling because I was charged for a visit that should have been covered under my plan. My name is Thomas Evans, and my member ID is MEM456789.
+Customer Support: Thank you for calling, Thomas. Can you confirm your date of birth?
+Member: It’s December 15, 1990.
+Customer Support: Thanks, Thomas. Let me check your coverage details. [pause] It looks like the service you received is indeed covered, but it was processed incorrectly. Unfortunately, I don’t have the ability to correct it from my end.
+Member: So, what’s the next step?
+Customer Support: You’ll need to contact the billing department to get this corrected.
+Member: Alright, I’ll do that.
+Customer Support: Thank you for your understanding, Thomas. If you need anything else, feel free to reach out.
+Member: Thank you.

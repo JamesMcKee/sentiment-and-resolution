@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I’m having trouble with my medication coverage. My name is Kevin Johnson, and my member ID is MEM789012.
+Customer Support: Thank you for calling, Kevin. Can you confirm your date of birth?
+Member: It’s March 11, 1978.
+Customer Support: Thanks, Kevin. Let me check your medication coverage. [pause] It looks like there was a processing issue, but I’ve corrected it. Your medication will be covered moving forward.
+Member: This should have been handled better. I shouldn’t have to deal with these issues, especially when it’s a matter of my health.
+Customer Support: I completely understand, Kevin, and I’m really sorry for the inconvenience. The coverage has been corrected, and you won’t experience any further issues.
+Member: I’m not happy about this, but I’ll take your word for it.
+Customer Support: I understand your frustration, Kevin. The issue is resolved, and we’ll make sure this doesn’t happen again.
+Member: Thanks.
+Customer Support: You’re welcome, Kevin. Take care.

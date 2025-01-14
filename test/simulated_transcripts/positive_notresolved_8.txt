@@ -1,0 +1,6 @@
+Member: Hi, I’m trying to update my personal information, but I keep getting an error on the website. My name is James Wilson, and my member ID is MEM908172.
+Customer Support: Thank you for calling, James. Let me check the system. [pause] It appears there’s a temporary issue with the website. I recommend using the mobile app or waiting for the website to be fixed.
+Member: No worries, I’ll try the app. I’m sure it’ll be back up soon! Thanks for letting me know, you’ve been very helpful!
+Customer Support: I don’t have an exact timeline, but I suggest checking back later.
+Member: Will do! Thanks again for your excellent help today!
+Customer Support: You’re welcome, James. Have a great day.

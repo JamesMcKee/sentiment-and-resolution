@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because my claim for a procedure was denied. My name is Karen Turner, and my member ID is MEM012345.
+Customer Support: Thank you for calling, Karen. Can you confirm your date of birth?
+Member: It’s March 27, 1974.
+Customer Support: Thanks, Karen. Let me look into that claim. [pause] It appears there was a processing error, but I’ve resubmitted the claim, and it has been approved.
+Member: Alright, thanks for resolving it.
+Customer Support: You’re welcome, Karen. Is there anything else I can assist you with?
+Member: No, that’s everything.
+Customer Support: Okay, take care!

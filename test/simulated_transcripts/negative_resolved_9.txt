@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I received an incorrect statement showing unpaid charges. My name is Tom Black, and my member ID is MEM901234.
+Customer Support: Thank you for calling, Tom. Can you confirm your date of birth?
+Member: It’s October 4, 1977.
+Customer Support: Thanks, Tom. Let me check your statement. [pause] I see the error, and I’ve gone ahead and corrected it. The charges will be removed from your statement.
+Member: I shouldn’t have had to spend time on this. This is really inconvenient.
+Customer Support: I understand, Tom, and I apologize for the inconvenience. The error has been corrected, and you won’t have to deal with it again.
+Member: I hope so. Thanks for fixing it.
+Customer Support: You’re welcome, Tom. Take care.

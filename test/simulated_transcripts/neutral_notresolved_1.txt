@@ -1,0 +1,9 @@
+Member: Hi, I’m calling about my recent medical claim that was denied. My name is Karen Adams, and my member ID is MEM123987.
+Customer Support: Thank you for calling, Karen. Can you please confirm your date of birth?
+Member: It’s July 8, 1980.
+Customer Support: Thanks, Karen. Let me check on that claim for you. [pause] It looks like the claim was denied because the procedure wasn't covered under your plan.
+Member: I see. So there’s no way to get it covered or appealed?
+Customer Support: Unfortunately, based on the information I’m seeing, the decision stands, and there's no coverage for that procedure under your current plan.
+Member: Alright, thank you for the information.
+Customer Support: You're welcome. If you need anything else, feel free to reach out.
+Member: Okay, I will.

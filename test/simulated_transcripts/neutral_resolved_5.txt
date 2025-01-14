@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because my claim for physical therapy was denied. My name is Jonathan Smith, and my member ID is MEM567890.
+Customer Support: Thank you for calling, Jonathan. Can you confirm your date of birth?
+Member: It’s January 14, 1976.
+Customer Support: Thanks, Jonathan. Let me check your claim. [pause] It appears there was an error, but I’ve resubmitted it, and it’s now been approved.
+Member: Okay. Thanks for the update.
+Customer Support: You’re welcome, Jonathan. Let me know if there’s anything else I can help with.
+Member: No, that’s it.
+Customer Support: Alright, take care!

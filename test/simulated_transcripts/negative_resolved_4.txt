@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I was charged for a service that should have been fully covered. My name is Rachel Green, and my member ID is MEM456789.
+Customer Support: Thank you for calling, Rachel. Can you confirm your date of birth?
+Member: It’s May 15, 1987.
+Customer Support: Thanks, Rachel. Let me check your coverage. [pause] It looks like there was an issue with your billing, but I’ve corrected it. You won’t be charged for the service.
+Member: I don’t want to keep dealing with these mistakes. This is the second time this has happened in the last few months.
+Customer Support: I’m really sorry for the repeated issues, Rachel. We’ve fixed this one, and it shouldn’t happen again.
+Member: I hope so. I’m really getting tired of these mistakes.
+Customer Support: I completely understand, Rachel. We’ve taken care of it, and we’ll ensure everything is processed correctly from here on out.
+Member: Fine. Thanks for fixing it.
+Customer Support: You’re welcome, Rachel. Let me know if you need anything else.

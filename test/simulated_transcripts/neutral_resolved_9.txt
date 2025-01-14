@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I was billed for an urgent care visit I thought was covered. My name is Peter Black, and my member ID is MEM901234.
+Customer Support: Thank you for calling, Peter. Can you confirm your date of birth?
+Member: It’s December 6, 1980.
+Customer Support: Thanks, Peter. Let me check your account. [pause] It looks like there was an issue with the billing, but I’ve corrected it, and you won’t be charged.
+Member: Okay. Thanks for fixing that.
+Customer Support: You’re welcome, Peter. Is there anything else I can assist you with?
+Member: No, that’s all.
+Customer Support: Great, have a nice day!

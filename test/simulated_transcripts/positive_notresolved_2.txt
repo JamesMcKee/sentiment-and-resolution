@@ -1,0 +1,8 @@
+Member: Hi, I need to check on the status of a claim I submitted a month ago. My name is Greg Johnson and my member ID is MEM345678.
+Customer Support: Thank you for calling, Greg. Can you please confirm your date of birth?
+Member: It’s February 8, 1985.
+Customer Support: Great, thank you. Let me check the claim status for you. [pause] I see that your claim is still under review. It looks like it requires additional documentation from your doctor.
+Member: Oh, I didn’t realize that! No problem at all – I’ll just get in touch with them. Thanks for the heads-up!
+Customer Support: I’m afraid I don’t have an exact timeline, but I suggest contacting our referral department for more specific information.
+Member: Noted! I’m sure it’ll be taken care of soon. Thanks again for your help and clear explanation!
+Customer Support: You’re welcome. Have a good day!

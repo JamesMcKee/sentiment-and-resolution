@@ -1,0 +1,8 @@
+Member: Hi, I’m calling to check on the status of a refund for a claim. My name is Adam Wilson, and my member ID is MEM890123.
+Customer Support: Thank you for calling, Adam. Can you confirm your date of birth?
+Member: It’s November 3, 1978.
+Customer Support: Thanks, Adam. Let me look into that refund. [pause] It looks like the refund has been processed, and it should be on its way to you. You should receive it within the next few days.
+Member: That’s awesome! Thanks for confirming that for me.
+Customer Support: You’re welcome, Adam! I’m glad I could help.
+Member: I really appreciate it. Thanks again!
+Customer Support: Anytime! Have a great day.

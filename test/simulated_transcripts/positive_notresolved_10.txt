@@ -1,0 +1,6 @@
+Member: Hi, I need to change my primary care provider. My name is Nathan Scott, and my member ID is MEM567890.
+Customer Support: Thanks for calling, Nathan. Let me pull up your account. [pause] I see that you’re eligible for a PCP change, but you’ll need to do that through the online portal or by contacting the provider change department.
+Member: No problem at all! I’ll take care of it through the portal. Thanks so much for your help today – I’m really glad I called.
+Customer Support: Unfortunately, I can’t process changes for you, but I can direct you to the right department.
+Member: I’ll reach out to them. Thanks again for being so helpful!
+Customer Support: You’re welcome, Nathan. Take care!

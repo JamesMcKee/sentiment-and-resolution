@@ -1,0 +1,6 @@
+Member: Hi, I need assistance with mental health coverage. My name is Michelle Anderson, and my member ID is MEM234567.
+Customer Support: Thanks for calling, Michelle. Let me pull up your coverage details. [pause] It looks like your plan does cover mental health services, but only for outpatient visits. Inpatient services would require additional authorization.
+Member: Got it, no problem! I’ll work on getting that authorization. I’m really glad I called today to clear this up.
+Customer Support: Unfortunately, I’m unable to process the authorization here, but you can reach out to the pre-authorization department for assistance.
+Member: Thanks so much! I’ll contact them right away. I’m sure everything will go smoothly.
+Customer Support: You’re welcome. Take care.

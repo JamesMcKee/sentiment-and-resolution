@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I was charged incorrectly for my prescription. My name is Emily Roberts, and my member ID is MEM456789.
+Customer Support: Thank you for calling, Emily. Can you confirm your date of birth?
+Member: It’s March 3, 1991.
+Customer Support: Thanks, Emily. Let me look into that. [pause] It looks like there was a processing error, but I’ve corrected it, and you won’t be charged for that prescription.
+Member: Alright, thank you for resolving that.
+Customer Support: You’re welcome, Emily. Is there anything else I can assist you with?
+Member: No, that’s all.
+Customer Support: Great, have a nice day!

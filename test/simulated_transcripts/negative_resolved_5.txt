@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I’m still waiting for a reimbursement check that hasn’t arrived. My name is Anthony Lee, and my member ID is MEM567890.
+Customer Support: Thank you for calling, Anthony. Can you confirm your date of birth?
+Member: It’s September 3, 1980.
+Customer Support: Thanks, Anthony. Let me check the status of your reimbursement. [pause] It looks like there was a delay, but I’ve expedited the process, and the check will be sent to you within the next 3-5 business days.
+Member: This delay has been extremely inconvenient. I needed that reimbursement weeks ago.
+Customer Support: I completely understand your frustration, Anthony, and I apologize for the delay. The reimbursement will be processed soon.
+Member: It better be. I don’t want to have to keep calling about this.
+Customer Support: I understand, Anthony. We’ve prioritized this, and you won’t experience any further delays.
+Member: I hope that’s true. Thanks.
+Customer Support: You’re welcome, Anthony. Take care.

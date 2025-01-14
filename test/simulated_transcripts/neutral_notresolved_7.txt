@@ -1,0 +1,9 @@
+Member: Hi, I’m calling to inquire about a billing issue. My name is Mark Lee, and my member ID is MEM789012.
+Customer Support: Thank you for calling, Mark. Can you confirm your date of birth?
+Member: It’s September 19, 1982.
+Customer Support: Thanks, Mark. Let me check your billing details. [pause] It looks like your billing issue is due to a miscommunication between our system and the provider, but I can’t resolve that from here.
+Member: So what do I do now?
+Customer Support: You’ll need to contact the billing department to have this addressed.
+Member: Okay, I’ll reach out to them.
+Customer Support: Thank you, Mark. If you need any further assistance, feel free to let us know.
+Member: I will. Thanks.

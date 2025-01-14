@@ -1,0 +1,6 @@
+Member: Hi, I received a letter saying my policy is being canceled. Can you help me understand why? My name is David King, and my member ID is MEM543210.
+Customer Support: I’m sorry to hear that, David. Let me pull up your account. [pause] It appears that your policy was canceled due to non-payment of premiums.
+Member: Oh, I must have missed a payment, but no worries – I’ll get that sorted out. Thanks for helping me understand the situation!
+Customer Support: I can’t see any recent payments reflected in the system. I would recommend contacting our payments department to review your payment history.
+Member: Thanks! I’ll reach out to them and get it fixed. Thanks again for your help – you’ve been awesome!
+Customer Support: You’re welcome. Have a good day.

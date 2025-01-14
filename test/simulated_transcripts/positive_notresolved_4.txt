@@ -1,0 +1,8 @@
+Member: Hi, I’m calling about a billing issue. My name is Mark Thompson, and my member ID is MEM321987.
+Customer Support: Thanks for calling, Mark. What seems to be the problem?
+Member: I was charged for a service I didn’t use. I believe it was a mistake.
+Customer Support: Let me look into this. [pause] It seems there was an error in our system, and the charge was applied incorrectly. However, I don’t have the ability to reverse charges from this department.
+Member: Oh, no worries! I’m sure it’s just a quick fix, and I’ll reach out to the billing team. Thanks for letting me know, I feel good about getting it resolved soon!
+Customer Support: I’d recommend contacting the billing department directly to resolve the charge.
+Member: Absolutely, I’ll take care of it. Thanks for being so helpful!
+Customer Support: You’re welcome. Have a nice day.

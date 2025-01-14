@@ -1,0 +1,9 @@
+Member: Hi, I’m calling because I’ve been having some trouble with getting a prescription covered. My name is Kevin Martinez, and my member ID is MEM567890.
+Customer Support: Thank you for calling, Kevin. Can you confirm your date of birth?
+Member: It’s June 30, 1993.
+Customer Support: Thanks, Kevin. Let me check on that prescription coverage for you. [pause] I see that the prescription was mistakenly marked as not covered, but I’ve gone ahead and corrected it. It’s covered now.
+Member: That’s great! Thank you for clearing that up for me. I was worried I would need to pay out of pocket.
+Customer Support: I’m glad I could help, Kevin! Your prescription will be covered moving forward.
+Member: Thanks so much for your prompt assistance. You’ve made my day easier!
+Customer Support: It was a pleasure, Kevin. Let me know if you need anything else.
+Member: I’ll be sure to. Thanks again!

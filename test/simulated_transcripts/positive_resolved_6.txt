@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I’d like to get more information on how to submit a claim for a specialist visit. My name is Teresa Harris, and my member ID is MEM678901.
+Customer Support: Thank you for calling, Teresa. Can you confirm your date of birth?
+Member: It’s March 12, 1989.
+Customer Support: Thanks, Teresa. I’ll check on how to submit that claim for you. [pause] I’ve gone ahead and submitted the claim on your behalf. You should receive a confirmation shortly.
+Member: That’s so helpful! Thank you for taking care of that for me.
+Customer Support: You’re very welcome, Teresa! The claim will be processed, and you’ll receive an update soon.
+Member: Thanks again! It’s great to know I don’t have to worry about the paperwork.
+Customer Support: I’m glad I could assist, Teresa. Let me know if you need anything else.
+Member: I’ll be sure to. Have a great day!
+Customer Support: You too!

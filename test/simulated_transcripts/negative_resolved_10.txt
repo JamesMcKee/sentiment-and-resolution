@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because my claim for physical therapy was denied, and I don’t think that’s right. My name is Christine Allen, and my member ID is MEM012345.
+Customer Support: Thank you for calling, Christine. Can you confirm your date of birth?
+Member: It’s January 22, 1985.
+Customer Support: Thanks, Christine. Let me look into your claim. [pause] It looks like there was an error in processing, but I’ve gone ahead and resubmitted your claim, and it’s been approved.
+Member: This whole process has been such a hassle. I can’t believe I had to go through all of this just to get it fixed.
+Customer Support: I completely understand, Christine, and I’m sorry for the frustration. The claim has been approved, and you won’t have to worry about it anymore.
+Member: Well, I just hope this is the last time I have to deal with this.
+Customer Support: I understand, Christine. We’ve taken care of it, and everything is set now.
+Member: Fine. Thanks.
+Customer Support: You’re welcome, Christine. Take care.

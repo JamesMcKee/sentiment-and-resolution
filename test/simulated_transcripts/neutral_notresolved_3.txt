@@ -1,0 +1,9 @@
+Member: Hi, I’ve been waiting for a pre-authorization to go through for a medical procedure. My name is Angela Martin, and my member ID is MEM345678.
+Customer Support: Thank you for calling, Angela. Can you confirm your date of birth?
+Member: It’s April 10, 1987.
+Customer Support: Thank you, Angela. Let me check the status. [pause] It looks like the pre-authorization is still under review, and there’s no update at this time.
+Member: I see. So there’s nothing that can be done to speed it up?
+Customer Support: Unfortunately, there’s no way to expedite the review process. I can only suggest that you wait for the notification.
+Member: Okay, thank you for the information.
+Customer Support: You’re welcome. Let me know if you need anything else.
+Member: I will. Thanks.

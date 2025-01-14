@@ -1,0 +1,9 @@
+Member: Hi, I’m calling because I need to confirm whether my recent procedure is covered under my insurance. My name is Robert Turner, and my member ID is MEM123456.
+Customer Support: Thank you for calling, Robert. Can you confirm your date of birth?
+Member: It’s May 6, 1981.
+Customer Support: Thanks, Robert. Let me check your coverage details. [pause] It appears the procedure you had is covered, but I don’t have the details on how much will be paid out.
+Member: Okay, so I won’t know the payment amount until after the claim is processed?
+Customer Support: That’s right. The claim will be processed, and you’ll receive an explanation of benefits with the details.
+Member: Alright, I’ll wait for that.
+Customer Support: Thank you, Robert. Let me know if you need any further assistance.
+Member: I will. Thank you.

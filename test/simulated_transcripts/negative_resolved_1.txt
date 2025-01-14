@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I was charged a copay for a primary care visit, and I’m really upset about it. My name is Sarah Davis, and my member ID is MEM123456.
+Customer Support: Thank you for calling, Sarah. Can you confirm your date of birth?
+Member: It’s March 5, 1980.
+Customer Support: Thank you, Sarah. Let me check your coverage. [pause] It looks like there was an error in processing your copay, and I’ll go ahead and issue a refund for you.
+Member: It’s about time. This is really frustrating. I’ve been a member for years, and I shouldn’t have to deal with mistakes like this.
+Customer Support: I understand your frustration, Sarah. The refund will be processed within 3-5 business days.
+Member: Fine. I just hope this doesn’t happen again.
+Customer Support: I’m sorry for the inconvenience, Sarah. We’ve corrected the error, and it won’t happen again.
+Member: I hope so. Thank you.
+Customer Support: You’re welcome, Sarah. Have a good day.

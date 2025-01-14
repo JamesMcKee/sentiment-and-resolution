@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I was charged a copay that I believe shouldn’t have been charged. My name is Daniel Miller, and my member ID is MEM345678.
+Customer Support: Thank you for calling, Daniel. Can you confirm your date of birth?
+Member: It’s November 5, 1982.
+Customer Support: Thank you, Daniel. Let me check your account. [pause] It looks like there was an issue with your billing, but I’ve corrected it. The copay will be refunded.
+Member: Okay. Thanks for fixing that.
+Customer Support: No problem, Daniel. Anything else I can help with today?
+Member: No, that’s all.
+Customer Support: Alright, have a great day!

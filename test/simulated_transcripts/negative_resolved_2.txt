@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I received a bill for a service I thought was covered. My name is John Harris, and my member ID is MEM234567.
+Customer Support: Thank you for calling, John. Can you confirm your date of birth?
+Member: It’s April 10, 1975.
+Customer Support: Thank you, John. Let me look into that. [pause] It appears there was an issue with the coverage, but I’ve gone ahead and corrected it. You won’t owe anything for that service.
+Member: This shouldn’t have happened in the first place. I’m really frustrated that I had to spend my time calling for this.
+Customer Support: I understand, John, and I’m sorry for the inconvenience. The issue has been resolved, and you won’t have to pay.
+Member: I’m still not happy about how this was handled. But I’ll take your word for it.
+Customer Support: I understand, John. We appreciate your patience. Is there anything else I can help with?
+Member: No, that’s all. Thanks.
+Customer Support: You’re welcome. Have a good day.

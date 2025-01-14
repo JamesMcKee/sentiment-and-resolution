@@ -1,0 +1,9 @@
+Member: Hi, I’m calling about an issue with my coverage that hasn’t been resolved yet. My name is Olivia Wright, and my member ID is MEM567890.
+Customer Support: Thank you for calling, Olivia. Can you confirm your date of birth?
+Member: It’s July 22, 1983.
+Customer Support: Thanks, Olivia. Let me pull up your account. [pause] It seems there’s a processing error that’s causing the delay, and I can’t fix it from here.
+Member: This is getting ridiculous. I’ve been waiting for a resolution for weeks, and now you’re telling me it’s a system error?
+Customer Support: I’m sorry, Olivia. Unfortunately, the issue is outside of my control, and you’ll need to contact our technical support team.
+Member: This is just so typical of your company. I’m getting tired of dealing with this.
+Customer Support: I understand your frustration, and I apologize for the inconvenience.
+Member: Yeah, well, it’s too little, too late.

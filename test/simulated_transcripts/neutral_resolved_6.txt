@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I received a bill for a service I thought was covered. My name is Victoria Harris, and my member ID is MEM678901.
+Customer Support: Thank you for calling, Victoria. Can you confirm your date of birth?
+Member: It’s May 18, 1988.
+Customer Support: Thanks, Victoria. Let me check your coverage. [pause] It looks like there was an issue with the billing, but I’ve corrected it, and you won’t be charged.
+Member: Okay, thank you.
+Customer Support: You’re welcome, Victoria. Is there anything else you need?
+Member: No, that’s everything.
+Customer Support: Alright, have a good day!

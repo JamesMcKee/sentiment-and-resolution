@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I need to know if a particular procedure is covered by my plan. My name is Jessica Lee, and my member ID is MEM789012.
+Customer Support: Thank you for calling, Jessica. Can you confirm your date of birth?
+Member: It’s October 11, 1983.
+Customer Support: Thanks, Jessica. I’ll check your coverage. [pause] I see that the procedure is covered under your plan. You’re all set!
+Member: That’s fantastic news! Thank you for confirming that for me.
+Customer Support: You’re very welcome, Jessica! Let me know if you need any other information.
+Member: I’m all good for now. Thanks for your help!
+Customer Support: My pleasure, Jessica. Take care!

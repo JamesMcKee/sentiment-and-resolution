@@ -1,0 +1,9 @@
+Member: Hi, I’m calling about a prescription that wasn’t covered under my plan. My name is Natalie Green, and my member ID is MEM345678.
+Customer Support: Thank you for calling, Natalie. Can you confirm your date of birth?
+Member: It’s August 23, 1985.
+Customer Support: Thanks, Natalie. Let me look into that. [pause] It looks like the medication wasn’t covered because it’s not on the formulary list for your plan.
+Member: This is absurd! I’m paying for this insurance, and now I have to pay out-of-pocket for something I was counting on?
+Customer Support: I’m sorry for the inconvenience. Unfortunately, the formulary list is set for your plan, and there’s nothing I can do to add it.
+Member: This is completely ridiculous. You guys need to be more flexible with your coverage. I’m really unhappy with this.
+Customer Support: I understand your frustration. I wish I could do more to assist you.
+Member: Yeah, well, it seems like I’m getting the bare minimum of help here.

@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I was charged a copay for a specialist visit that should have been covered. My name is Gregory Green, and my member ID is MEM789012.
+Customer Support: Thank you for calling, Gregory. Can you confirm your date of birth?
+Member: It’s August 23, 1979.
+Customer Support: Thanks, Gregory. Let me look into that. [pause] It looks like there was an error in processing, but I’ve corrected it. You won’t need to pay that copay.
+Member: Alright, thanks for handling that.
+Customer Support: You’re welcome, Gregory. Is there anything else I can assist with?
+Member: No, that’s all.
+Customer Support: Okay, take care!

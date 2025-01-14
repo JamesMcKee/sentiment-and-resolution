@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I was told my surgery would be covered, but I’m being asked to pay a large amount. My name is Janet Miller, and my member ID is MEM678901.
+Customer Support: Thank you for calling, Janet. Can you confirm your date of birth?
+Member: It’s June 28, 1982.
+Customer Support: Thanks, Janet. Let me check on your coverage. [pause] It looks like there was an issue with the way the surgery was billed, but I’ve corrected it. The remaining balance will be covered by your plan.
+Member: I can’t believe I had to deal with this. I was told everything would be taken care of, and now I’m stuck dealing with this mess.
+Customer Support: I understand how frustrating this must be, Janet. I apologize for the mistake, but the issue has been resolved, and you won’t need to pay anything further.
+Member: I’m still upset that I had to spend time on the phone for this. This should have been handled better.
+Customer Support: I completely understand, Janet. We’ve fixed it, and we’ll ensure it’s handled properly moving forward.
+Member: Fine. Thanks.
+Customer Support: You’re welcome, Janet. Have a good day.

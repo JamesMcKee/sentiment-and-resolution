@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because I was charged incorrectly for a recent visit. My name is Brian Thomas, and my member ID is MEM123456.
+Customer Support: Thank you for calling, Brian. Can you confirm your date of birth?
+Member: It’s April 12, 1990.
+Customer Support: Thanks, Brian. Let me look into your charge. [pause] It seems there was a billing error, but I’ve gone ahead and corrected it. You won’t be charged for that visit.
+Member: Okay. Thanks for resolving that.
+Customer Support: You’re welcome, Brian. Is there anything else I can assist you with?
+Member: No, that’s all.
+Customer Support: Alright, have a great day!

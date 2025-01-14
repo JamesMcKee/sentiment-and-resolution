@@ -1,0 +1,8 @@
+Member: Hi, I’m calling because my claim was denied, but I believe it should be covered. My name is Sarah Lee, and my member ID is MEM234567.
+Customer Support: Thank you for calling, Sarah. Can you confirm your date of birth?
+Member: It’s June 22, 1985.
+Customer Support: Thanks, Sarah. Let me review your claim. [pause] I see the issue. It looks like there was a mistake, but I’ve reprocessed it, and it’s now been approved.
+Member: Alright. Thanks for taking care of it.
+Customer Support: You’re welcome, Sarah. Is there anything else you need help with?
+Member: No, that’s it.
+Customer Support: Okay, have a good day!

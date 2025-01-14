@@ -1,0 +1,8 @@
+Member: Hi, I need to cancel my policy. I’m really unhappy with the service. My name is Lisa White, and my member ID is MEM321654.
+Customer Support: Thank you for calling, Lisa. I’m sorry to hear that you’re dissatisfied. Can you confirm your date of birth?
+Member: It’s February 18, 1975.
+Customer Support: Thanks. I’m sorry to hear that you want to cancel. Can I ask why?
+Member: The customer service has been terrible, and I’ve had constant issues with my claims. I’m done with this company.
+Customer Support: I understand, Lisa. If you still wish to cancel, I can assist you with that, but I’d recommend reaching out to our cancellation department for the process.
+Member: Yeah, I’m sure they’ll be as helpful as you’ve been. I’m just done with this whole thing.
+Customer Support: I’m truly sorry you feel that way, Lisa. I’ll transfer

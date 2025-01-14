@@ -1,0 +1,9 @@
+Member: Hi, I’m calling to resolve an issue with a denied claim. My name is Megan Scott, and my member ID is MEM901234.
+Customer Support: Thank you for calling, Megan. Can you confirm your date of birth?
+Member: It’s April 25, 1984.
+Customer Support: Thanks, Megan. Let me check the status of your claim. [pause] It looks like the claim was denied due to a minor error, but I’ve gone ahead and corrected it. The claim will be resubmitted.
+Member: That’s a relief! I was getting worried about it. Thank you for handling that so quickly.
+Customer Support: You’re welcome, Megan! The claim should be processed soon, and you’ll receive an update.
+Member: Thanks again for your help. I really appreciate it.
+Customer Support: I’m glad to assist, Megan. Let me know if you need anything else.
+Member: I will. Have a great day!

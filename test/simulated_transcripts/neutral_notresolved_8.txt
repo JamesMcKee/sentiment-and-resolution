@@ -1,0 +1,9 @@
+Member: Hi, I’m calling because I received a notification about a denied claim, and I don’t understand why. My name is Julie Anderson, and my member ID is MEM890123.
+Customer Support: Thank you for calling, Julie. Can you confirm your date of birth?
+Member: It’s January 11, 1993.
+Customer Support: Thanks, Julie. Let me check on that claim for you. [pause] It appears the claim was denied because the procedure wasn’t covered under your plan.
+Member: I see. So, is there anything I can do to appeal this?
+Customer Support: You can appeal the decision, but the process might take several weeks. I can provide you with the steps if you’d like.
+Member: Alright, please send me the steps.
+Customer Support: I’ll send them right over. Is there anything else I can assist you with?
+Member: No, that will be all.

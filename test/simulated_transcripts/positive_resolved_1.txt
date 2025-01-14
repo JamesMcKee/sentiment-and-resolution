@@ -1,0 +1,10 @@
+Member: Hi, I’m calling about a charge for a doctor's visit that I don’t think should have been billed. My name is Emily Johnson, and my member ID is MEM123456.
+Customer Support: Thank you for calling, Emily. Can you confirm your date of birth?
+Member: It’s February 14, 1990.
+Customer Support: Thanks, Emily. Let me check the details of your billing. [pause] It looks like there was an error in processing your claim, and I’m going to go ahead and reverse the charge for you.
+Member: Oh, that’s great! Thank you so much for resolving that.
+Customer Support: You’re very welcome, Emily. The charge will be refunded, and it should appear on your statement within 3-5 business days.
+Member: Awesome, thanks again for your help!
+Customer Support: It’s my pleasure, Emily. Is there anything else I can assist you with today?
+Member: No, that’s all. Thank you!
+Customer Support: You’re welcome! Have a wonderful day.

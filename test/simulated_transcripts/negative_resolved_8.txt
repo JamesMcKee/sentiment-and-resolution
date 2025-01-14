@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because I got a bill for an urgent care visit that I thought was covered. My name is Maria White, and my member ID is MEM890123.
+Customer Support: Thank you for calling, Maria. Can you confirm your date of birth?
+Member: It’s July 19, 1990.
+Customer Support: Thanks, Maria. Let me review your billing. [pause] It looks like there was a mistake with your billing, but I’ve corrected it. You won’t be charged for the urgent care visit.
+Member: I’m not happy that I had to deal with this. It’s frustrating to be charged for something I know should have been covered.
+Customer Support: I completely understand, Maria. I’m sorry for the mistake, but the issue has been resolved, and you won’t have to pay.
+Member: I just hope this doesn’t happen again. This is really annoying.
+Customer Support: I understand, Maria. We’ve fixed the issue, and we’ll make sure it’s handled correctly moving forward.
+Member: Alright. Thanks.
+Customer Support: You’re welcome, Maria. Have a great day.

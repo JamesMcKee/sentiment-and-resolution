@@ -1,0 +1,10 @@
+Member: Hi, I’m calling because my claim was denied for no good reason. My name is Lisa Parker, and my member ID is MEM345678.
+Customer Support: Thank you for calling, Lisa. Can you confirm your date of birth?
+Member: It’s February 20, 1983.
+Customer Support: Thank you, Lisa. Let me look into your claim. [pause] It looks like there was a mistake on our end. The claim has been approved now, and you should see the payment processed shortly.
+Member: I shouldn’t have had to go through all of this. It’s ridiculous that I had to call to get this fixed.
+Customer Support: I’m sorry for the frustration, Lisa. I understand how inconvenient this can be. The claim will be processed soon.
+Member: Whatever. I just want this over with.
+Customer Support: I understand, Lisa. We’ve taken care of it, and you won’t have to worry about it anymore.
+Member: Fine. Thanks.
+Customer Support: You’re welcome, Lisa. Take care.
