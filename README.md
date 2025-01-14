@@ -2,8 +2,12 @@
 
 Scripts for implementing a generative AI analysis on transcripts of calls to customer support.
 
+Tested on python 3.10.16
+
 Install requirements with: \
 pip install -r requirements.txt
+
+* There are a lot of requirements because it was painful getting transformers to work, ended up just pip freezing the environment that worked. If you can find the exact incantation needed to minimally install a working transformers, please let me know!
 
 # model testing
 files for this are in the test/ directory \
